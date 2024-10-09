@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: linear-gradient(135deg, #FFD700, #044f48, #2a7561);
+  min-height: 100vh; /* Make sure gradient covers full viewport */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
