@@ -18,7 +18,7 @@ This project is a responsive chat interface built with React, Redux, and TypeScr
 Follow the steps below to run both the client and the server:
 1. Firstly install the dependencies by performing **npm init**.
 2. Then open a terminal with a directory path frontend and start the react server by performing **npm start**.
-3. Now open another terminal with the directory path backend and start the backend server by performing **node server.js**
+3. Now open another terminal with the directory path backend and start the backend server by performing **node index.js**
 4. Now open the browser and you see a message box and test the output.
 
 ## Explanation of my approach and Challenges faced
